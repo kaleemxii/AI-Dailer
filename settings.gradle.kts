@@ -1,9 +1,9 @@
 rootProject.name = "Simple-Dialer"
 pluginManagement {
     repositories {
-        gradlePluginPortal()
         google()
         mavenCentral()
+        gradlePluginPortal()
     }
 }
 dependencyResolutionManagement {
